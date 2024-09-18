@@ -1,0 +1,1 @@
+This is a DOM Manipulation exercise. It shows essential concepts in DOM manipulation like creation of elements, referring to existing elements, appending of child elements, adding text to elements, deleting elements and also using event listeners.  
